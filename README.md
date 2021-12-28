@@ -8,6 +8,21 @@ Currently supported exploits:
 * Scriptwares
 -- other exploit idk
 
-VeNexus currently supporting 1 games, Which is Break-In others will be added soon.
+Supported games:
+* Break-In
+* Coming-Soon
+* Coming-Soon
+* Coming-Soon
+* Coming-Soon
+* Coming-Soon
+* Coming-Soon
+* Coming-Soon
+* Coming-Soon
+* Coming-Soon
+* Coming-Soon
+* Coming-Soon
+* Coming-Soon
+* Coming-Soon
 
 Discords : 'currently down'
+Founder : !ven#6793
