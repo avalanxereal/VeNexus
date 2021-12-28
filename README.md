@@ -7,3 +7,7 @@ Currently supported exploits:
 * Sentinel
 * Scriptwares
 -- other exploit idk
+
+VeNexus currently supporting 1 games, Which is Break-In others will be added soon.
+
+Discords : 'currently down'
