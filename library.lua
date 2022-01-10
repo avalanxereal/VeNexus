@@ -664,8 +664,6 @@ do
 		local button = utility:Create("ImageButton", {
 			Name = "Button",
 			Parent = self.container,
-			Position = UDim2.new(0, 10, 0.5, 1),
-			AnchorPoint = Vector2.new(0, 0.5),
 			BackgroundTransparency = 1,
 			BorderSizePixel = 0,
 			Size = UDim2.new(1, 0, 0, 30),
@@ -677,6 +675,8 @@ do
 		}, {
 			utility:Create("TextLabel", {
 				Name = "Title",
+				Position = UDim2.new(0, 10, 0.5, 1),
+				AnchorPoint = Vector2.new(0, 0.5),
 				BackgroundTransparency = 1,
 				Size = UDim2.new(1, 0, 1, 0),
 				ZIndex = 3,
