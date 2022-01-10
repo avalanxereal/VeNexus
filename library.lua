@@ -400,7 +400,7 @@ do
 					Text = title,
 					TextColor3 = themes.TextColor,
 					TextSize = 12,
-					TextXAlignment = Enum.TextXAlignment.Center,
+					TextXAlignment = Enum.TextXAlignment.Left,
 					TextTransparency = 1
 				}),
 				utility:Create("UIListLayout", {
