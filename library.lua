@@ -682,7 +682,6 @@ do
 				Text = title,
 				TextColor3 = themes.TextColor,
 				TextSize = 12,
-				TextXAlignment = Enum.TextXAlignment.Left
 				TextTransparency = 0.10000000149012
 			})
 		})
