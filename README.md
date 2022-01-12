@@ -1,3 +1,5 @@
+# V E N E X U S
+
 ██╗░░░██╗███████╗███╗░░██╗███████╗██╗░░██╗██╗░░░██╗░██████╗
 ██║░░░██║██╔════╝████╗░██║██╔════╝╚██╗██╔╝██║░░░██║██╔════╝
 ╚██╗░██╔╝█████╗░░██╔██╗██║█████╗░░░╚███╔╝░██║░░░██║╚█████╗░
@@ -17,10 +19,10 @@ Currently supported exploits:
 
 Supported games:
 * **Break-In**
-* Coming-Soon
-* Coming-Soon
-* Coming-Soon
-* Coming-Soon
+* **Stands Awakening**
+* **A Bizzare Journey**
+* **Basically FNF**
+* **Ninja Legends**
 * Coming-Soon
 * Coming-Soon
 * Coming-Soon
