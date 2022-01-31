@@ -14,12 +14,12 @@ local utility = {}
 -- themes
 local objects = {}
 local themes = {
-	Background = Color3.fromRGB(23, 23, 23), 
-	Glow = Color3.fromRGB(85, 170, 255), 
-	Accent = Color3.fromRGB(72, 145, 217), 
-	LightContrast = Color3.fromRGB(19, 19, 19),
+	Background = Color3.fromRGB(20, 20, 20), 
+	Glow = Color3.fromRGB(194, 46, 46), 
+	Accent = Color3.fromRGB(20, 20, 20), 
+	LightContrast = Color3.fromRGB(17, 17, 17),
 	DarkContrast = Color3.fromRGB(14, 14, 14), 
-	TextColor = Color3.fromRGB(255, 255, 255)
+	TextColor = Color3.fromRGB(194, 46, 46)
 }
 
 do
@@ -221,7 +221,7 @@ do
 				BackgroundTransparency = 1,
 				Position = UDim2.new(0.25, 0, 0.052435593, 0),
 				Size = UDim2.new(0, 511, 0, 428),
-				Image = "rbxassetid://4641149554",
+				Image = "rbxassetid://5028857472",
 				ImageColor3 = themes.Background,
 				ScaleType = Enum.ScaleType.Slice,
 				SliceCenter = Rect.new(4, 4, 296, 296)
@@ -684,7 +684,7 @@ do
 				Text = title,
 				TextColor3 = themes.TextColor,
 				TextSize = 12,
-        TextXAlignment = Enum.TextXAlignment.Left,
+        TextXAlignment = Enum.TextXAlignment.Center,
 				TextTransparency = 0.10000000149012
 			})
 		})
