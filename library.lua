@@ -334,7 +334,7 @@ do
 				AnchorPoint = Vector2.new(0, 0.5),
 				BackgroundTransparency = 1,
 				Position = UDim2.new(0, 12, 0.5, 0),
-				Size = UDim2.new(0, 18, 0, 18),
+				Size = UDim2.new(0, 17, 0, 17),
 				ZIndex = 3,
 				Image = "rbxassetid://" .. tostring(icon),
 				ImageColor3 = themes.TextColor,
