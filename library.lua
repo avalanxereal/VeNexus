@@ -1,4 +1,4 @@
--- innit
+-- init
 local player = game.Players.LocalPlayer
 local mouse = player:GetMouse()
 
@@ -14,12 +14,12 @@ local utility = {}
 -- themes
 local objects = {}
 local themes = {
-	Background = Color3.fromRGB(20, 20, 20), 
-	Glow = Color3.fromRGB(194, 46, 46), 
-	Accent = Color3.fromRGB(14, 14, 14), 
-	LightContrast = Color3.fromRGB(17, 17, 17),
-	DarkContrast = Color3.fromRGB(14, 14, 14), 
-	TextColor = Color3.fromRGB(194, 46, 46)
+	Background = Color3.fromRGB(24, 24, 24), 
+	Glow = Color3.fromRGB(0, 116, 255), 
+	Accent = Color3.fromRGB(10, 10, 10), 
+	LightContrast = Color3.fromRGB(20, 20, 20), 
+	DarkContrast = Color3.fromRGB(14, 14, 14),  
+	TextColor = Color3.fromRGB(255, 255, 255)
 }
 
 do
@@ -221,7 +221,7 @@ do
 				BackgroundTransparency = 1,
 				Position = UDim2.new(0.25, 0, 0.052435593, 0),
 				Size = UDim2.new(0, 511, 0, 428),
-				Image = "rbxassetid://5028857472",
+				Image = "rbxassetid://4641149554",
 				ImageColor3 = themes.Background,
 				ScaleType = Enum.ScaleType.Slice,
 				SliceCenter = Rect.new(4, 4, 296, 296)
@@ -677,15 +677,15 @@ do
 				Name = "Title",
 				AnchorPoint = Vector2.new(0, 0.5),
 				BackgroundTransparency = 1,
-        Position = UDim2.new(0, 10, 0.5, 1),
-				Size = UDim2.new(1, 0, 1, 0),
+				Position = UDim2.new(0, 40, 0.5, 0),
+				Size = UDim2.new(0, 76, 1, 0),
 				ZIndex = 3,
 				Font = Enum.Font.Gotham,
 				Text = title,
 				TextColor3 = themes.TextColor,
 				TextSize = 12,
-        TextXAlignment = Enum.TextXAlignment.Center,
-				TextTransparency = 0.10000000149012
+				TextTransparency = 0.65,
+				TextXAlignment = Enum.TextXAlignment.Left
 			})
 		})
 		
@@ -2171,5 +2171,5 @@ do
 	end
 end
 
-print("ven was here :/")
+print("!ven#6793 was here :/")
 return library
